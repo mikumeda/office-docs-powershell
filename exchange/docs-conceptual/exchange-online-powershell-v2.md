@@ -108,7 +108,7 @@ The procedures in this section explain how to install, update, and uninstall the
 
   <sup>\*</sup> The `2.0.4-Preview2` version of the module supports PowerShell 7 in Linux and Windows. For more information, see the [PowerShell Core support in the EXO V2 module](#powershell-core-support-in-the-exo-v2-module) section later in this topic.
 
-  <sup>\*\*</sup> This version of Windows has reached end of support, and is now only supported when running in Azure virtual machines. To use this version of Windows, you need to install the Microsoft .NET Framework 4.5 or later and then the Windows Management Framework 5.1. For more information, see [Windows Management Framework 5.1](https://aka.ms/wmf5download).
+  <sup>\*\*</sup> This version of Windows has reached end of support, and is now only supported when running in Azure virtual machines. To use this version of Windows, you need to install the Microsoft .NET Framework 4.7.1 or later and then the Windows Management Framework 5.1. For more information, see [Windows Management Framework 5.1](https://aka.ms/wmf5download).
 
 - Windows PowerShell needs to be configured to run scripts, and by default, it isn't. You'll get the following error when you try to connect:
 
